@@ -1,0 +1,13 @@
+*.asv
+*.m~
+*.mat
+.mat
+*.fig
+.fig
+*.zip
+.zip
+*.rar
+.rar
+**/labs-master/FinalProject/Caltech4/
+**/labs-master/FinalProject/liblinear*
+**/labs-master/FinalProject/libsvm*
